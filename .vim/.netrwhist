@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/korfanidis/workspace/wellcomm/docker-images'
+let g:netrw_dirhist_2='/home/korfanidis/workspace/wellcomm/shp-ui/devops/SHOPFLIX'
+let g:netrw_dirhist_1='/home/korfanidis/workspace/wellcomm/shp-ui/devops'
+let g:netrw_dirhist_0='/home/korfanidis/workspace/wellcomm/shp-ui'
+let g:netrw_dirhist_9='/home/korfanidis/workspace/wellcomm/shp-ui/CI'
+let g:netrw_dirhist_8='/home/korfanidis/workspace/wellcomm/shp-ui'
+let g:netrw_dirhist_7='/home/korfanidis/workspace/wellcomm/PIM/pim-installer'
+let g:netrw_dirhist_6='/home/korfanidis/workspace/wellcomm/PIM'
+let g:netrw_dirhist_5='/home/korfanidis/workspace/wellcomm'
+let g:netrw_dirhist_4='/home/korfanidis/workspace'
